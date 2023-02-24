@@ -20,7 +20,7 @@ golang mqtt服务器，v5版本协议，集群版，目前支持DB集群和直�
 #### 多节点启动
 ![输入图片说明](https://docapi.goflys.cn/common/uploadfile/get_image?url=resource/uploads/20230224/3c246c6973a17a8809b623aeade4f5b6.png?_t=1677222880 "3c246c6973a17a8809b623aeade4f5b6.png")
 ##### MQTTX使用
-![输入图片说明](https://docapi.goflys.cn/common/uploadfile/get_image?url=resource/uploads/20230224/e08b3fe8c61a392f5caf8941f1094245.png?_t=1677228134 "e08b3fe8c61a392f5caf8941f1094245.png")
+![输入图片说明](https://docapi.goflys.cn/common/uploadfile/get_image?url=resource/uploads/20230224/e082ad8593a87df421490d95b5552b12.png?_t=1677231427 "MQTTX调试端口")
 
 #### 待优化实现
 1. ~~发送给客户端的pkid应该专属，不能用上发来的那个旧pkid~~
