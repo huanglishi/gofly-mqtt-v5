@@ -63,8 +63,8 @@ golang mqtt服务器，v5版本协议，集群版，目前支持DB集群和直�
 19. .....
 
 #### 旧设计思路
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0903/231523_cbe216ec_3048600.png "客户端消息处理.excalidraw.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0903/232740_351967e7_3048600.png "共享订阅集群通知.excalidraw.png")
+![输入图片说明](https://docapi.goflys.cn/common/uploadfile/get_image?url=resource/uploads/20230224/c704927bda1c9f40b9b40850e3747d86.png?_t=1677229905 "客户端消息处理")
+![输入图片说明](https://docapi.goflys.cn/common/uploadfile/get_image?url=resource/uploads/20230224/27575a90cdb7ee661f23570b75b28394.png?_t=1677229916 "共享订阅集群通知")
 
 #### 系统领域uml设计
-[uml图、不同包中方法调用图](https://github.com/huanglishi/gofly-mqttv5/tree/dev-cluster-v1/image)
+[uml图、不同包中方法调用图](https://github.com/huanglishi/gofly-mqttv5/image)
